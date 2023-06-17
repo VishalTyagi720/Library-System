@@ -1,0 +1,28 @@
+
+
+.about {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 2rem 0;
+}
+
+.para {
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    height:30%;
+    margin: 1em 11%;
+    overflow: hidden;
+    text-align: center;
+    float: none;
+}
+
+.about_para {
+    height: 20%;
+    /* border: 2px solid black; */
+    color: black;
+    font-size: 25px;
+    padding: 0px 10px;
+    overflow: hidden;
+}

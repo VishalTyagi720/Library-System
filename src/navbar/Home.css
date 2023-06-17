@@ -1,0 +1,64 @@
+/* body {
+    border: 2px solid black;
+    background-image: url('https://img.freepik.com/free-photo/room-interior-design_23-2148899444.jpg?size=626&ext=jpg&ga=GA1.1.1407987948.1686838782&semt=ais'); */
+    /* background-color: #cccccc; */
+    /* min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+} */
+
+.Home_container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    margin: 90px 0;
+    /* border:  8px solid black; */
+}
+
+.welcome {
+    text-align: center;
+    width: 100%;
+    /* border: 2px solid red; */
+    font-size: 25px;
+    object-fit: contain;
+}
+
+.login_signup {
+    /* border: 2px solid green; */
+    margin-top: 2.5em;
+    font-size: 25px;
+    object-fit: contain;
+    width: 80%;
+    text-align: center;
+}
+
+.login_signup {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    /* padding:.5rem; */
+    font-weight: 500;
+    padding-left: 3em;
+    /* border: 2px solid green; */
+}
+
+.welcome p {
+    /* margin-top:-10vh; */
+    padding: -2em;
+}
+
+.quote {
+    /* border: 5px solid black; */
+    font-size: 24px;
+    font-weight: 800;
+    font-style: italic;
+    padding-bottom: 1em;
+    margin: 7vh 0;
+}

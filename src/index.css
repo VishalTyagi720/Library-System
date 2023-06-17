@@ -1,0 +1,16 @@
+body {
+  background-image: url('https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?size=626&ext=jpg&ga=GA1.1.1407987948.1686838782&semt=sph');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  /* margin: 0;
+  padding: 0; */
+  font-family: sans-serif;
+  /* background-blend-mode: color-burn; */
+  backdrop-filter: blur(8px);
+}
